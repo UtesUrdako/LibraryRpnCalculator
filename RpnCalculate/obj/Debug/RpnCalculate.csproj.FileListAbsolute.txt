@@ -1,0 +1,6 @@
+D:\Project\TZ BK Studio\RpnCalculate\RpnCalculate\bin\Debug\RpnCalculate.dll
+D:\Project\TZ BK Studio\RpnCalculate\RpnCalculate\bin\Debug\RpnCalculate.pdb
+D:\Project\TZ BK Studio\RpnCalculate\RpnCalculate\obj\Debug\RpnCalculate.csproj.AssemblyReference.cache
+D:\Project\TZ BK Studio\RpnCalculate\RpnCalculate\obj\Debug\RpnCalculate.csproj.CoreCompileInputs.cache
+D:\Project\TZ BK Studio\RpnCalculate\RpnCalculate\obj\Debug\RpnCalculate.dll
+D:\Project\TZ BK Studio\RpnCalculate\RpnCalculate\obj\Debug\RpnCalculate.pdb
